@@ -1,0 +1,71 @@
+
+card reluctant_writers_project-one
+    title "the educational challenge : Lack of motivation"
+    text "One of the main issues identified in the passage is the lack of motivation among the boys to write. They were previously reluctant to write more than a few words, but the use of drama activities and locating the work outside the normal place of learning proved to be very effective in motivating them."
+    choice "solution" -> reluctant_writers_project-one
+
+card reluctant_writers_project-one-solution
+    title "the educational challenge : Lack of motivation"
+    text "To solve the problem of lack of motivation among boys to write, teachers can follow these instructions:
+Use active stimuli for writing: Encourage students to engage in active writing activities such as drama activities and taking them off-site. These activities help to stimulate creativity and interest in writing.
+Set achievable goals: Set achievable writing goals for students, such as writing short stories or poems, so that they feel motivated to complete the task.
+Provide positive feedback: Offer positive feedback and praise to students when they complete writing tasks, helping to build their confidence and self-esteem.
+Celebrate achievements: Organize a celebratory event involving parents to celebrate student writing achievements, further boosting their self-esteem and motivation.
+Monitor progress: Regularly monitor student progress and provide individualized support where needed to keep students engaged and motivated.
+By following these steps, teachers can help to motivate boys to write and develop their writing skills, while also building their self-confidence and self-esteem."
+    choice "child reaction" -> reluctant_writers_project-one-reaction
+
+
+card reluctant_writers_project-one-reaction
+    title "Lack of motivation : childern reaction"
+    text "As a student, I found the teacher's response helpful in addressing the problem of lack of motivation among boys to write. The idea of using active stimuli for writing and setting achievable goals seemed like a good way to get us interested in writing again. The suggestion to provide positive feedback and celebrate our achievements also sounded encouraging. It made me feel motivated and confident that we could achieve our writing goals with the right guidance and support. Overall, I thought the teacher's response was well thought out and likely to be effective in solving the problem."
+    choice "child reaction" -> reluctant_writers_project-two
+
+card reluctant_writers_project-two
+    title "the educational challenge : Limited literacy skills"
+    text "Another issue highlighted in the passage is the limited literacy skills of the boys. Despite their reluctance to write, they were able to produce sustained narrative writing and poems after receiving tailored literacy teaching from the RR teacher. This suggests that they may have lacked the necessary skills to express themselves effectively before the intervention."
+    choice "solution" -> reluctant_writers_project-two
+
+card reluctant_writers_project-two-solution
+    title "the educational challenge : Limited literacy skills"
+    text "To address the issue of limited literacy skills among boys, teachers can follow these instructions:
+Assess individual literacy levels: Teachers should assess each boy's current literacy level to identify areas of weakness and tailor instruction accordingly.
+Provide scaffolding: Teachers should provide scaffolding and support to help boys gradually build their literacy skills. This might include pre-teaching key vocabulary, providing graphic organizers, and offering guided practice opportunities.
+Use engaging texts: Teachers should select texts that are age-appropriate and engaging for boys, such as novels, comics, or magazines. This will help to pique their interest and encourage them to read more.
+Incorporate technology: Teachers can incorporate technology into literacy lessons to increase engagement and motivation. For example, they could use online reading platforms, educational games, or virtual reality experiences.
+Foster collaboration: Teachers should foster collaborative learning environments where boys can learn from each other and receive peer feedback. This will help to reinforce concepts and promote critical thinking skills.
+Monitor progress: Teachers should regularly monitor each boy's progress and adjust instruction as needed to ensure continuous improvement.
+By following these steps, teachers can help to address the issue of limited literacy skills among boys and promote their growth as readers and writers."
+    choice "child reaction" -> reluctant_writers_project-two-reaction
+
+
+card reluctant_writers_project-two-reaction
+    title "Limited literacy skills : childern reaction"
+    text "As a student, I found the teacher's response helpful in addressing the issue of limited literacy skills among boys. The idea of assessing individual literacy levels and providing scaffolding and support to help boys gradually build their literacy skills seemed like a good way to tackle the problem. The suggestion to use engaging texts and incorporate technology into literacy lessons also sounded promising. It made me feel hopeful that we could overcome our literacy challenges with the right guidance and support. Overall, I thought the teacher's response was well thought out and likely to be effective in promoting our literacy skills."
+    choice "child reaction" -> reluctant_writers_project-three
+
+card reluctant_writers_project-three
+    title "the educational challenge : Limited resources"
+    text "Finally, the passage indicates that the RR teacher played a crucial role in supporting the tailored literacy teaching. However, it is unclear whether other schools would have access to similar resources, such as a dedicated RR teacher, to implement similar interventions. Therefore, the availability of resources could also be considered an issue that needs to be addressed in order to ensure the success of such interventions."
+    choice "solution" -> reluctant_writers_project-three
+
+card reluctant_writers_project-three-solution
+    title "the educational challenge : Limited resources"
+    text "To address the issue of limited literacy skills among boys, teachers can follow these instructions:
+Assess individual literacy levels: Teachers should assess each boy's current literacy level to identify areas of weakness and tailor instruction accordingly.
+Provide scaffolding: Teachers should provide scaffolding and support to help boys gradually build their literacy skills. This might include pre-teaching key vocabulary, providing graphic organizers, and offering guided practice opportunities.
+Use engaging texts: Teachers should select texts that are age-appropriate and engaging for boys, such as novels, comics, or magazines. This will help to pique their interest and encourage them to read more.
+Incorporate technology: Teachers can incorporate technology into literacy lessons to increase engagement and motivation. For example, they could use online reading platforms, educational games, or virtual reality experiences.
+Foster collaboration: Teachers should foster collaborative learning environments where boys can learn from each other and receive peer feedback. This will help to reinforce concepts and promote critical thinking skills.
+Monitor progress: Teachers should regularly monitor each boy's progress and adjust instruction as needed to ensure continuous improvement.
+By following these steps, teachers can help to address the issue of limited literacy skills among boys and promote their growth as readers and writers."
+    choice "child reaction" -> reluctant_writers_project-three-reaction
+
+card reluctant_writers_project-three-reaction
+    title "Limited resources : childern reaction"
+    text "As a student, I would feel encouraged by the teacher's approach to addressing the issue of limited literacy skills among boys. The idea of tailoring instruction to individual needs and incorporating engaging texts and technology sounds like it would make learning more enjoyable and accessible. Additionally, the focus on fostering collaboration and monitoring progress would help to create a supportive environment where students can learn from each other and receive feedback. Overall, I think this approach would help to improve my own literacy skills and inspire me to continue learning and growing as a reader and writer."
+    choice "child reaction" -> reluctant_writers_project-end
+
+card reluctant_writers_project-end
+    title "practice finshied"
+    text "thank you for your time" 

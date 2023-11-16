@@ -1,0 +1,16 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <title>Edit</title>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+  </head>
+  <body>
+    <p>Book name: {{ name }}</p>
+    <p>Current rating: {{ rating }}</p>
+    <form action="/edit/{{ id }}" method="POST">
+      <input type="number" name="rating" placeholder="Change rating" />
+      <button type="submit">Change rate</button>
+    </form>
+  </body>
+</html>

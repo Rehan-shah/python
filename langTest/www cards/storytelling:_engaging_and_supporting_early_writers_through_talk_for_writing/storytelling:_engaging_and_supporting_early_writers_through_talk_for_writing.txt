@@ -1,0 +1,74 @@
+
+card storytelling:_engaging_and_supporting_early_writers_through_talk_for_writing-one
+    title "the educational challenge : Engaging Students in Writing Tasks"
+    text "In the case study, it is mentioned that the boys were reluctant to write more than a few words. This suggests that they lacked motivation and interest in writing tasks. To address this issue, it is important to create engaging writing activities that capture students' attention and encourage them to express themselves creatively. Teachers can incorporate various strategies such as providing choice, offering feedback, and fostering collaboration to increase student engagement in writing tasks."
+    choice "solution" -> storytelling:_engaging_and_supporting_early_writers_through_talk_for_writing-one
+
+card storytelling:_engaging_and_supporting_early_writers_through_talk_for_writing-one-solution
+    title "the educational challenge : Engaging Students in Writing Tasks"
+    text "To solve the problem of engaging students in writing tasks, teachers can follow these instructions:
+Create engaging writing activities that capture students' attention and encourage them to express themselves creatively. Offer choices, provide feedback, and foster collaboration to increase student engagement.
+Incorporate technology into writing activities when possible to make them more interactive and engaging. Use online tools, apps, and games to motivate students to write.
+Encourage students to share their writing with others, either through peer editing or publishing their work online. This will help them feel proud of their writing and motivated to continue writing.
+Provide scaffolding and support to students who struggle with writing tasks. Offer prompts, templates, and examples to guide their writing process.
+Monitor student progress closely and adjust writing activities as needed to meet individual needs. Use formative assessments to track progress and adjust instruction accordingly.
+Foster a love of reading and writing by creating a supportive environment where students feel safe to take risks and experiment with different genres and styles of writing.
+Continuously reflect on your own teaching practices and adapt them based on student feedback and performance. Be open to trying new approaches and adjusting your approach as needed.
+By following these steps, teachers can create an environment that encourages students to engage in writing tasks and develop their writing skills over time."
+    choice "child reaction" -> storytelling:_engaging_and_supporting_early_writers_through_talk_for_writing-one-reaction
+
+
+card storytelling:_engaging_and_supporting_early_writers_through_talk_for_writing-one-reaction
+    title "Engaging Students in Writing Tasks : childern reaction"
+    text "As a student, I would appreciate my teacher's effort to find ways to engage us in writing tasks. I like the idea of incorporating technology and offering choices, as it makes the activity more interesting and fun. I also appreciate the fact that my teacher is willing to provide feedback and support if I am struggling with the task. It shows that she cares about our progress and wants us to succeed. Overall, I think my teacher's response is helpful and encouraging, and I look forward to seeing how it impacts my writing skills over time."
+    choice "child reaction" -> storytelling:_engaging_and_supporting_early_writers_through_talk_for_writing-two
+
+card storytelling:_engaging_and_supporting_early_writers_through_talk_for_writing-two
+    title "the educational challenge : Improving Knowledge of Guided Writing Techniques"
+    text "It appears that the teachers in the case study needed guidance on how to effectively implement guided writing techniques. They may not have had sufficient training or experience in using these methods, which could explain why they struggled to plan and deliver effective guided writing sessions. To address this issue, teachers should seek professional development opportunities to enhance their skills and knowledge of guided writing techniques. Additionally, schools can provide ongoing support and mentoring to help teachers integrate new practices into their classrooms."
+    choice "solution" -> storytelling:_engaging_and_supporting_early_writers_through_talk_for_writing-two
+
+card storytelling:_engaging_and_supporting_early_writers_through_talk_for_writing-two-solution
+    title "the educational challenge : Improving Knowledge of Guided Writing Techniques"
+    text "To solve the problem of engaging students in writing tasks, teachers can follow these instructions:
+Create engaging writing activities that capture students' attention and encourage them to express themselves creatively. Offer choices, provide feedback, and foster collaboration to increase student engagement.
+Incorporate technology into writing activities when possible to make them more interactive and engaging. Use online tools, apps, and games to motivate students to write.
+Encourage students to share their writing with others, either through peer editing or publishing their work online. This will help them feel proud of their writing and motivated to continue writing.
+Provide scaffolding and support to students who struggle with writing tasks. Offer prompts, templates, and examples to guide their writing process.
+Monitor student progress closely and adjust writing activities as needed to meet individual needs. Use formative assessments to track progress and adjust instruction accordingly.
+Foster a love of reading and writing by creating a supportive environment where students feel safe to take risks and experiment with different genres and styles of writing.
+Continuously reflect on your own teaching practices and adapt them based on student feedback and performance. Be open to trying new approaches and adjusting your approach as needed.
+By following these steps, teachers can create an environment that encourages students to engage in writing tasks and develop their writing skills over time."
+    choice "child reaction" -> storytelling:_engaging_and_supporting_early_writers_through_talk_for_writing-two-reaction
+
+
+card storytelling:_engaging_and_supporting_early_writers_through_talk_for_writing-two-reaction
+    title "Improving Knowledge of Guided Writing Techniques : childern reaction"
+    text "As a student, I would appreciate my teacher's effort to find ways to engage us in writing tasks. I like the idea of incorporating technology and offering choices, as it makes the activity more interesting and fun. I also appreciate the fact that my teacher is willing to provide feedback and support if I am struggling with the task. It shows that she cares about our progress and wants us to succeed. Overall, I think my teacher's response is helpful and encouraging, and I look forward to seeing how it impacts my writing skills over time."
+    choice "child reaction" -> storytelling:_engaging_and_supporting_early_writers_through_talk_for_writing-three
+
+card storytelling:_engaging_and_supporting_early_writers_through_talk_for_writing-three
+    title "the educational challenge : Lack of assessment and monitoring of progress"
+    text "While the case study highlights the importance of self-evaluation and review, it does not explicitly mention any formal assessment or monitoring processes. Without regular assessments, it is difficult to determine whether students are making progress towards specific goals. Therefore, it is essential to establish clear assessment procedures and regularly monitor student progress to ensure that writing instruction is effective and tailored to individual needs. This can be achieved through formative assessments, summative evaluations, and other forms of data collection and analysis."
+    choice "solution" -> storytelling:_engaging_and_supporting_early_writers_through_talk_for_writing-three
+
+card storytelling:_engaging_and_supporting_early_writers_through_talk_for_writing-three-solution
+    title "the educational challenge : Lack of assessment and monitoring of progress"
+    text "To solve the problem of lack of assessment and monitoring of progress in writing, teachers can follow these instructions:
+Establish clear assessment procedures and regularly monitor student progress to ensure that writing instruction is effective and tailored to individual needs. This can be achieved through formative assessments, summative evaluations, and other forms of data collection and analysis.
+Use a variety of assessment types, such as pre-tests, post-tests, quizzes, portfolios, rubrics, checklists, and exit tickets, to assess student progress in writing.
+Provide timely feedback to students on their writing assignments, both verbally and in written form, to help them understand what they have done well and areas that need improvement.
+Use data collected from assessments to inform instructional decisions and tailor writing instruction to meet individual student needs.
+Collaborate with colleagues to discuss and analyze student writing samples and assessment results to identify patterns and trends in student progress.
+Regularly review and revise assessment procedures and strategies to ensure that they are effective and efficient in measuring student progress in writing.
+By following these steps, teachers can create an environment that supports student growth and achievement in writing, while also ensuring that writing instruction is tailored to individual needs."
+    choice "child reaction" -> storytelling:_engaging_and_supporting_early_writers_through_talk_for_writing-three-reaction
+
+card storytelling:_engaging_and_supporting_early_writers_through_talk_for_writing-three-reaction
+    title "Lack of assessment and monitoring of progress : childern reaction"
+    text "As a student, I would appreciate my teacher's effort to find ways to engage us in writing tasks. I like the idea of incorporating technology and offering choices, as it makes the activity more interesting and fun. I also appreciate the fact that my teacher is willing to provide feedback and support if I am struggling with the task. It shows that she cares about our progress and wants us to succeed. Overall, I think my teacher's response is helpful and encouraging, and I look forward to seeing how it impacts my writing skills over time."
+    choice "child reaction" -> storytelling:_engaging_and_supporting_early_writers_through_talk_for_writing-end
+
+card storytelling:_engaging_and_supporting_early_writers_through_talk_for_writing-end
+    title "practice finshied"
+    text "thank you for your time" 

@@ -1,0 +1,83 @@
+
+card a_whole_school_approach_to_guided_writing-one
+    title "the educational challenge : The need for repetition of instruction and the requirement of overlearning during the plenary session."
+    text "This issue is important because it highlights the importance of providing students with multiple opportunities to practice and reinforce their understanding of concepts."
+    choice "solution" -> a_whole_school_approach_to_guided_writing-one
+
+card a_whole_school_approach_to_guided_writing-one-solution
+    title "the educational challenge : The need for repetition of instruction and the requirement of overlearning during the plenary session."
+    text "To solve the problem of the need for repetition of instruction and the requirement of overlearning during the plenary session, teachers can follow these steps:
+Plan for multiple opportunities for practice and reinforcement: Teachers should design activities and assignments that allow students to practice and reinforce their understanding of concepts multiple times. This could include homework, quizzes, group projects, and individual assessments.
+Use a variety of teaching methods: To keep students engaged and motivated, teachers should use a variety of teaching methods, such as lectures, discussions, hands-on activities, and multimedia presentations. This will help to maintain interest and promote active learning.
+Provide clear and concise instructions: Teachers should provide clear and concise instructions to students, making sure that they understand what is expected of them. They should also check for understanding regularly and provide feedback to students.
+Encourage self-assessment: Teachers should encourage students to assess their own progress and identify areas where they need additional practice or support. This can help to foster independence and self-confidence.
+Monitor progress closely: Finally, teachers should monitor student progress closely and adjust their teaching strategies accordingly. This may involve reteaching material, providing extra practice, or offering individualized support to struggling students.
+By following these steps, teachers can help to ensure that students receive the repetition and overlearning they need to master key concepts and skills."
+    choice "child reaction" -> a_whole_school_approach_to_guided_writing-one-reaction
+
+
+card a_whole_school_approach_to_guided_writing-one-reaction
+    title "The need for repetition of instruction and the requirement of overlearning during the plenary session. : childern reaction"
+    text "To solve the problem of the need for clear and concise instructions, teachers can follow these steps:
+Model effective communication: Teachers should demonstrate effective communication skills by speaking clearly, using appropriate language, and being attentive to nonverbal cues.
+Break down complex tasks: Teachers should break down complex tasks into smaller, manageable parts and provide step-by-step instructions for each part.
+Check for understanding: Teachers should frequently check for understanding by asking questions, having students summarize instructions, or asking students to repeat instructions back.
+Provide examples: Teachers should provide examples of completed tasks or partial solutions to guide students through the task.
+Provide scaffolding: Teachers should provide scaffolding to support students as they complete tasks independently. Scaffolding can include prompts, templates, or graphic organizers.
+Provide feedback: Teachers should provide timely and constructive feedback to students as they complete tasks. Feedback should highlight strengths and areas for improvement.
+Practice, practice, practice: Teachers should provide frequent opportunities for students to practice giving and following instructions, so that they become comfortable with the process.
+By following these steps, teachers can help to ensure that students understand what is expected of them and can follow directions accurately."
+    choice "child reaction" -> a_whole_school_approach_to_guided_writing-two
+
+card a_whole_school_approach_to_guided_writing-two
+    title "the educational challenge : The need for resources that cater to different learning styles."
+    text "This issue is important because it recognizes that students learn differently and requires teachers to provide materials that meet the needs of all learners."
+    choice "solution" -> a_whole_school_approach_to_guided_writing-two
+
+card a_whole_school_approach_to_guided_writing-two-solution
+    title "the educational challenge : The need for resources that cater to different learning styles."
+    text "To solve the problem of the need for resources that cater to different learning styles, teachers can follow these steps:
+Identify the diverse learning needs of students: Teachers should take the time to get to know their students and understand their unique learning styles. This can be done through informal observations, one-on-one conversations, and diagnostic assessments.
+Create a range of resources: Once teachers have identified the diverse learning needs of their students, they should create a range of resources that cater to those needs. This could include visual aids, interactive games, and hands-on activities.
+Differentiate instruction: Teachers should differentiate their instruction to accommodate the diverse learning needs of their students. This could involve creating small groups with similar learning needs, using flexible grouping strategies, or providing individual accommodations.
+Collaborate with colleagues: Teachers should work collaboratively with colleagues to share resources and ideas for catering to diverse learning needs. This could include sharing best practices, co-planning lessons, and collaborating on resource creation.
+Continuously evaluate and adapt: Teachers should continuously evaluate the effectiveness of their resources and make adjustments as needed. This could include collecting feedback from students, analyzing assessment data, and adjusting resources based on student performance.
+By following these steps, teachers can help to ensure that all students have access to resources that cater to their diverse learning needs and promote optimal learning outcomes."
+    choice "child reaction" -> a_whole_school_approach_to_guided_writing-two-reaction
+
+
+card a_whole_school_approach_to_guided_writing-two-reaction
+    title "The need for resources that cater to different learning styles. : childern reaction"
+    text "As a student, I found the teacher's response helpful in addressing the need for resources that cater to different learning styles. I appreciated that the teacher took the time to get to know my learning style and created a range of resources that catered to my needs. It was also encouraging to see that the teacher worked collaboratively with colleagues to share resources and ideas, which helped to ensure that all students had access to the necessary tools for learning.
+However, despite the teacher's efforts, I still felt frustrated at times when I struggled to keep up with the pace of the class. I wished that there were more opportunities for individual attention and support, especially during group projects or discussions. Additionally, while the teacher's differentiation techniques were helpful, I sometimes felt like they didn't fully address my specific learning needs.
+Overall, I believe that the teacher's response was a positive step towards improving the quality of education for all students, regardless of their learning styles. However, there is always room for improvement, and I hope that the teacher continues to seek feedback from students and refine their approach to ensure that no student falls behind."
+    choice "child reaction" -> a_whole_school_approach_to_guided_writing-three
+
+card a_whole_school_approach_to_guided_writing-three
+    title "the educational challenge : The need for clear and concise instructions."
+    text "This issue is important because it emphasizes the importance of ensuring that students understand what is expected of them and can follow directions accurately."
+    choice "solution" -> a_whole_school_approach_to_guided_writing-three
+
+card a_whole_school_approach_to_guided_writing-three-solution
+    title "the educational challenge : The need for clear and concise instructions."
+    text "To solve the problem of the need for clear and concise instructions, teachers can follow these steps:
+Model effective communication: Teachers should demonstrate effective communication skills by speaking clearly, using appropriate language, and being attentive to nonverbal cues.
+Break down complex tasks: Teachers should break down complex tasks into smaller, manageable parts and provide step-by-step instructions for each part.
+Check for understanding: Teachers should frequently check for understanding by asking questions, having students summarize instructions, or asking students to repeat instructions back.
+Provide examples: Teachers should provide examples of completed tasks or partial solutions to guide students through the task.
+Provide scaffolding: Teachers should provide scaffolding to support students as they complete tasks independently. Scaffolding can include prompts, templates, or graphic organizers.
+Provide feedback: Teachers should provide timely and constructive feedback to students as they complete tasks. Feedback should highlight strengths and areas for improvement.
+Practice, practice, practice: Teachers should provide frequent opportunities for students to practice giving and following instructions, so that they become comfortable with the process.
+By following these steps, teachers can help to ensure that students understand what is expected of them and can follow directions accurately."
+    choice "child reaction" -> a_whole_school_approach_to_guided_writing-three-reaction
+
+card a_whole_school_approach_to_guided_writing-three-reaction
+    title "The need for clear and concise instructions. : childern reaction"
+    text "As a student, I would feel encouraged and motivated by the teacher's response to the need for clear and concise instructions. I appreciate that the teacher recognized the importance of breaking down complex tasks into smaller, manageable parts and providing step-by-step instructions. I also value the emphasis on checking for understanding and providing scaffolding to support students as they complete tasks.
+I would feel confident in my ability to follow instructions and complete tasks accurately, knowing that the teacher has provided clear guidance and support. I would also feel empowered to ask questions and receive feedback, knowing that the teacher values my input and wants to help me succeed.
+Overall, I would feel grateful for the teacher's dedication to helping me learn and grow, and I would be inspired to continue working hard and striving for excellence."
+    choice "child reaction" -> a_whole_school_approach_to_guided_writing-end
+
+card a_whole_school_approach_to_guided_writing-end
+    title "practice finshied"
+    text "thank you for your time" 

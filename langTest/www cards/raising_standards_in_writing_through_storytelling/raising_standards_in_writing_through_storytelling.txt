@@ -1,0 +1,72 @@
+
+card raising_standards_in_writing_through_storytelling-one
+    title "the educational challenge : Lack of flexibility in the primary curriculum"
+    text "Before the Star Initiative, the primary curriculum was too rigid and did not allow for creative or cross-curricular approaches to teaching and learning. This limited the opportunities for students to engage deeply with their learning and develop critical thinking skills."
+    choice "solution" -> raising_standards_in_writing_through_storytelling-one
+
+card raising_standards_in_writing_through_storytelling-one-solution
+    title "the educational challenge : Lack of flexibility in the primary curriculum"
+    text "To solve the problem of a lack of flexibility in the primary curriculum, teachers can follow these steps:
+Review the curriculum: Teachers should review the current curriculum and identify areas where it lacks flexibility and creativity. They should consider incorporating more cross-curricular activities and projects into their lessons.
+Seek inspiration: Teachers can seek inspiration from other educators, artists, and experts who have used creative and flexible approaches to teaching and learning. They can attend workshops, conferences, and seminars to gain new insights and perspectives.
+Plan collaboratively: Teachers should plan collaboratively with colleagues and administrators to create a more flexible and creative curriculum. They should involve parents and community members in the process to ensure that everyone is on board with the changes.
+Experiment with new techniques: Teachers should experiment with new techniques and tools to deliver lessons in a more engaging and interactive manner. They should encourage students to explore their own interests and passions while still meeting academic requirements.
+Monitor and adjust: Finally, teachers should monitor the effectiveness of the new curriculum and make adjustments as needed. They should regularly assess student progress and use feedback to improve their teaching methods. By following these steps, teachers can help to create a more flexible and creative primary curriculum that fosters deep learning and critical thinking skills in their students."
+    choice "child reaction" -> raising_standards_in_writing_through_storytelling-one-reaction
+
+
+card raising_standards_in_writing_through_storytelling-one-reaction
+    title "Lack of flexibility in the primary curriculum : childern reaction"
+    text "As a student, I found the teacher's response to be helpful and insightful. It provided clear steps that we could take to address the issue of a lack of flexibility in the primary curriculum. I appreciated the emphasis on collaboration and experimentation, as well as the encouragement to explore my own interests and passions.
+However, when I heard the teacher's response, I couldn't help but feel overwhelmed by the amount of work that lay ahead of us. We had so much ground to cover, and there were so many things to consider. But then I remembered what the teacher said about monitoring and adjusting, and I realized that we didn't have to do everything at once. We could start small, and gradually build up to something bigger. And even if we didn't get it right the first time, we could always learn from our mistakes and try again.
+So overall, I felt hopeful and excited about the prospect of making our curriculum more flexible and creative. I knew it wouldn't be easy, but I was ready to put in the hard work and dedication necessary to make it happen."
+    choice "child reaction" -> raising_standards_in_writing_through_storytelling-two
+
+card raising_standards_in_writing_through_storytelling-two
+    title "the educational challenge : Limited teacher confidence in delivering literacy skills"
+    text "Teachers may have lacked confidence in delivering certain literacy skills, such as modelled writing, due to lack of training or experience. This impacted negatively on student outcomes and progress."
+    choice "solution" -> raising_standards_in_writing_through_storytelling-two
+
+card raising_standards_in_writing_through_storytelling-two-solution
+    title "the educational challenge : Limited teacher confidence in delivering literacy skills"
+    text "To solve the problem of a lack of flexibility in the primary curriculum, teachers can follow these steps:
+Review the curriculum: Teachers should review the current curriculum and identify areas where it lacks flexibility and creativity. They should consider incorporating more cross-curricular activities and projects into their lessons.
+Seek inspiration: Teachers can seek inspiration from other educators, artists, and experts who have used creative and flexible approaches to teaching and learning. They can attend workshops, conferences, and seminars to gain new insights and perspectives.
+Plan collaboratively: Teachers should plan collaboratively with colleagues and administrators to create a more flexible and creative curriculum. They should involve parents and community members in the process to ensure that everyone is on board with the changes.
+Experiment with new techniques: Teachers should experiment with new techniques and tools to deliver lessons in a more engaging and interactive manner. They should encourage students to explore their own interests and passions while still meeting academic requirements.
+Monitor and adjust: Finally, teachers should monitor the effectiveness of the new curriculum and make adjustments as needed. They should regularly assess student progress and use feedback to improve their teaching methods. By following these steps, teachers can help to create a more flexible and creative primary curriculum that fosters deep learning and critical thinking skills in their students."
+    choice "child reaction" -> raising_standards_in_writing_through_storytelling-two-reaction
+
+
+card raising_standards_in_writing_through_storytelling-two-reaction
+    title "Limited teacher confidence in delivering literacy skills : childern reaction"
+    text "As a student, I was impressed by the teacher's response to the problem of a lack of flexibility in the primary curriculum. The steps outlined seemed comprehensive and well thought out, and I was particularly interested in the idea of experimenting with new techniques and tools to deliver lessons. I felt that this approach would not only make the curriculum more engaging and interactive, but would also provide an opportunity for students to express themselves creatively and explore their own interests.
+I was also encouraged by the emphasis on collaboration and planning collaboratively with colleagues and administrators. I believed that this approach would not only help to ensure that everyone was on board with the changes, but would also provide an opportunity for teachers to share their experiences and expertise with each other.
+Overall, I felt optimistic about the potential for change and improvement in the primary curriculum. However, I was aware that implementing these changes would require a lot of effort and commitment from both teachers and students, and that there would likely be challenges along the way. Nevertheless, I was willing to embrace these challenges and work towards creating a more flexible and creative curriculum that would benefit all involved."
+    choice "child reaction" -> raising_standards_in_writing_through_storytelling-three
+
+card raising_standards_in_writing_through_storytelling-three
+    title "the educational challenge : Poor cross-curricular links"
+    text "There were poor cross-curricular links between subjects, which limited the opportunities for students to apply their literacy skills in other areas of the curriculum. This reduced engagement and motivation among students."
+    choice "solution" -> raising_standards_in_writing_through_storytelling-three
+
+card raising_standards_in_writing_through_storytelling-three-solution
+    title "the educational challenge : Poor cross-curricular links"
+    text "To solve the problem of poor cross-curricular links, teachers can follow these steps:
+Identify common themes: Teachers should look for common themes across different subjects that can be used to connect them together. For example, if a science lesson involves studying animals, the English lesson could involve reading stories about animals or writing animal reports.
+Use technology: Technology can be a great tool for connecting different subjects. Teachers can use online resources, educational apps, and virtual field trips to bring different subjects to life and show students how they are connected.
+Encourage collaboration: Teachers should encourage students to collaborate with one another across different subjects. This could involve working in groups, creating presentations, or participating in debates.
+Foster curiosity: Teachers should foster a sense of curiosity in their students and encourage them to ask questions and explore different subjects. This will help to build connections between different subjects and increase engagement and motivation.
+Evaluate and adjust: Finally, teachers should evaluate the success of their efforts to improve cross-curricular links and make adjustments as needed. They should regularly assess student progress and use feedback to improve their teaching methods. By following these steps, teachers can help to create a more cohesive and engaging learning environment for their students."
+    choice "child reaction" -> raising_standards_in_writing_through_storytelling-three-reaction
+
+card raising_standards_in_writing_through_storytelling-three-reaction
+    title "Poor cross-curricular links : childern reaction"
+    text "As a student, I would feel excited and motivated by the teacher's proposed solution to improve cross-curricular links. The idea of identifying common themes and using technology to connect different subjects sounds like a fun and engaging way to learn. I would also appreciate the focus on fostering curiosity and encouraging collaboration, as these are important skills that will serve me well in the future.
+However, I might also feel a bit overwhelmed by the scope of the project. Implementing these solutions would require a significant investment of time and resources, and it might be difficult to keep track of all the different aspects of the project. Additionally, some students might struggle to understand the connections between different subjects, especially if they haven't been exposed to similar ideas before.
+In conclusion, while the teacher's proposed solution sounds promising, it would require careful implementation and ongoing evaluation to ensure that it meets its intended goals. As a student, I would welcome the challenge of trying something new and innovative, but I would also need support and guidance throughout the process."
+    choice "child reaction" -> raising_standards_in_writing_through_storytelling-end
+
+card raising_standards_in_writing_through_storytelling-end
+    title "practice finshied"
+    text "thank you for your time" 

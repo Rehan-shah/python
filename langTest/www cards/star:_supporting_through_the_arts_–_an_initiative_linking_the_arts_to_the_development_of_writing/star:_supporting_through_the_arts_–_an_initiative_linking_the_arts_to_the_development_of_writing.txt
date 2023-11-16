@@ -1,0 +1,71 @@
+
+card star:_supporting_through_the_arts_–_an_initiative_linking_the_arts_to_the_development_of_writing-one
+    title "the educational challenge : Lack of confidence in teaching literacy skills"
+    text "The report indicates that some teachers lacked confidence in delivering literacy skills, such as modelled writing, which could negatively impact student outcomes."
+    choice "solution" -> star:_supporting_through_the_arts_–_an_initiative_linking_the_arts_to_the_development_of_writing-one
+
+card star:_supporting_through_the_arts_–_an_initiative_linking_the_arts_to_the_development_of_writing-one-solution
+    title "the educational challenge : Lack of confidence in teaching literacy skills"
+    text "To help teachers overcome a lack of confidence in teaching literacy skills, here are some steps they can take:
+Attend professional development workshops or courses on teaching literacy skills, particularly modelled writing. This can provide them with new strategies and techniques to use in the classroom.
+Collaborate with other teachers who have experience in teaching literacy skills. They can share their experiences and offer advice on how to effectively teach these skills.
+Use resources and materials designed specifically for teaching literacy skills, such as lesson plans, worksheets, and activities. These resources can provide structure and guidance for teachers, making it easier for them to deliver effective lessons.
+Set clear expectations for students when it comes to literacy skills. Make sure they understand what is expected of them and why it is important.
+Monitor student progress regularly and adjust instruction accordingly. This allows teachers to identify any gaps in knowledge or skill level and address them quickly.
+Encourage self-reflection and feedback from both students and peers. This helps teachers to continually improve their practice and refine their teaching methods.
+By taking these steps, teachers can build their confidence in teaching literacy skills and ultimately improve student outcomes."
+    choice "child reaction" -> star:_supporting_through_the_arts_–_an_initiative_linking_the_arts_to_the_development_of_writing-one-reaction
+
+
+card star:_supporting_through_the_arts_–_an_initiative_linking_the_arts_to_the_development_of_writing-one-reaction
+    title "Lack of confidence in teaching literacy skills : childern reaction"
+    text "As a student, I found the teacher's response helpful in overcoming a lack of confidence in teaching literacy skills. The idea of attending professional development workshops or collaborating with experienced teachers resonated with me, as I believe that learning from others can be invaluable in building confidence and refining teaching methods. Additionally, having access to resources and materials tailored to teaching literacy skills seemed like a great way to get started on the right foot. Overall, I felt encouraged by the teacher's willingness to seek out solutions and improve their practice, and I looked forward to seeing how these changes would affect my own learning."
+    choice "child reaction" -> star:_supporting_through_the_arts_–_an_initiative_linking_the_arts_to_the_development_of_writing-two
+
+card star:_supporting_through_the_arts_–_an_initiative_linking_the_arts_to_the_development_of_writing-two
+    title "the educational challenge : Limited cross-curricular integration"
+    text "While the Star initiative emphasized a more flexible approach to the primary curriculum, it appears that limited cross-curricular integration was still a challenge for some teachers."
+    choice "solution" -> star:_supporting_through_the_arts_–_an_initiative_linking_the_arts_to_the_development_of_writing-two
+
+card star:_supporting_through_the_arts_–_an_initiative_linking_the_arts_to_the_development_of_writing-two-solution
+    title "the educational challenge : Limited cross-curricular integration"
+    text "To help teachers overcome limited cross-curricular integration, here are some steps they can take:
+Plan collaboratively with other teachers to integrate writing into other subjects. This can help to make connections between different areas of the curriculum and reinforce the importance of writing.
+Use interdisciplinary projects to engage students in writing. For example, a science project could involve writing a lab report or a history project could involve writing a historical narrative.
+Provide opportunities for students to write in response to real-world problems or challenges. This can help to make writing relevant and meaningful to students.
+Use technology to support cross-curricular integration. For example, students could create digital presentations or videos that incorporate writing and other content areas.
+Encourage peer review and editing. Students can learn from each other by reviewing and editing one another's work. This can help to foster a culture of writing excellence and encourage students to take pride in their writing.
+By taking these steps, teachers can help to break down barriers between subjects and promote a more integrated approach to writing and other content areas."
+    choice "child reaction" -> star:_supporting_through_the_arts_–_an_initiative_linking_the_arts_to_the_development_of_writing-two-reaction
+
+
+card star:_supporting_through_the_arts_–_an_initiative_linking_the_arts_to_the_development_of_writing-two-reaction
+    title "Limited cross-curricular integration : childern reaction"
+    text "As a student, I found the teacher's response helpful in overcoming limited cross-curricular integration. The idea of planning collaboratively with other teachers to integrate writing into other subjects resonated with me, as I believe that working together can lead to innovative and engaging learning experiences. Additionally, the suggestion to use technology to support cross-curricular integration piqued my interest, as I am always looking for ways to enhance my learning through the use of technology. Overall, I felt inspired by the teacher's commitment to fostering a culture of writing excellence and encouraging students to take pride in their work."
+    choice "child reaction" -> star:_supporting_through_the_arts_–_an_initiative_linking_the_arts_to_the_development_of_writing-three
+
+card star:_supporting_through_the_arts_–_an_initiative_linking_the_arts_to_the_development_of_writing-three
+    title "the educational challenge : Limited understanding of the importance of writing"
+    text "Despite the positive attitudes towards writing developed through the Star initiative, it seems that some students still held negative views towards writing, suggesting a need for further improvement in this area."
+    choice "solution" -> star:_supporting_through_the_arts_–_an_initiative_linking_the_arts_to_the_development_of_writing-three
+
+card star:_supporting_through_the_arts_–_an_initiative_linking_the_arts_to_the_development_of_writing-three-solution
+    title "the educational challenge : Limited understanding of the importance of writing"
+    text "To help students understand the importance of writing, teachers can implement the following strategies:
+Emphasize the practical applications of writing: Help students see how writing skills are essential in various aspects of life, including academic, professional, and personal settings.
+Foster a love of reading: Reading exposes students to good examples of writing and helps them appreciate its power and beauty. Teachers can recommend books and articles that align with students' interests and passions.
+Incorporate writing across the curriculum: Integrate writing assignments into all subject areas, rather than treating writing as a separate activity. This will demonstrate the relevance of writing in all disciplines.
+Model strong writing practices: Teachers should model good writing habits, such as proofreading, revising, and using proper grammar and syntax.
+Provide constructive feedback: Offer detailed and constructive feedback on students' writing, highlighting strengths and weaknesses and offering suggestions for improvement.
+Encourage reflection and revision: Encourage students to reflect on their writing and revise their work based on feedback received. This process helps students develop critical thinking skills and become better writers.
+By implementing these strategies, teachers can help students understand the importance of writing and motivate them to continue to improve their writing skills."
+    choice "child reaction" -> star:_supporting_through_the_arts_–_an_initiative_linking_the_arts_to_the_development_of_writing-three-reaction
+
+card star:_supporting_through_the_arts_–_an_initiative_linking_the_arts_to_the_development_of_writing-three-reaction
+    title "Limited understanding of the importance of writing : childern reaction"
+    text "As a student, I would feel motivated and engaged by a teacher who implemented the strategies outlined above. By emphasizing the practical applications of writing, fostering a love of reading, incorporating writing across the curriculum, modeling strong writing practices, providing constructive feedback, encouraging reflection and revision, and motivating students to continue to improve their writing skills, the teacher demonstrates a deep commitment to helping students succeed. Furthermore, by creating a supportive and collaborative environment, the teacher fosters a sense of community among students, which encourages us to learn from one another and grow as individuals. In conclusion, I believe that implementing these strategies would have a significant and positive impact on my learning experience and my attitude toward writing."
+    choice "child reaction" -> star:_supporting_through_the_arts_–_an_initiative_linking_the_arts_to_the_development_of_writing-end
+
+card star:_supporting_through_the_arts_–_an_initiative_linking_the_arts_to_the_development_of_writing-end
+    title "practice finshied"
+    text "thank you for your time" 

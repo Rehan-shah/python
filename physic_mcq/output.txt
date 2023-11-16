@@ -1,0 +1,1176 @@
+ 
+ 
+This document consists of 20 printed pages. 
+IB19 03_9702_12/4RP 
+© UCLES 2019 
+[Turn over
+ 
+ 
+*5008401313*
+ 
+Cambridge Assessment International Education 
+Cambridge International Advanced Subsidiary and Advanced Level 
+ 
+ 
+ 
+PHYSICS 
+9702/12 
+ 
+ 
+Paper 1  Multiple Choice 
+February/March 2019 
+ 
+ 
+1 hour 15 minutes 
+ 
+Additional Materials: 
+Multiple Choice Answer Sheet 
+ 
+ 
+Soft clean eraser 
+ 
+ 
+Soft pencil (type B or HB is recommended) 
+ 
+ 
+ 
+ 
+READ THESE INSTRUCTIONS FIRST 
+ 
+Write in soft pencil. 
+Do not use staples, paper clips, glue or correction fluid. 
+Write your name, centre number and candidate number on the Answer Sheet in the spaces provided 
+unless this has been done for you. 
+DO NOT WRITE IN ANY BARCODES. 
+ 
+There are forty questions on this paper. Answer all questions. For each question there are four possible 
+answers A, B, C and D.  
+Choose the one you consider correct and record your choice in soft pencil on the separate Answer Sheet. 
+ 
+Read the instructions on the Answer Sheet very carefully. 
+ 
+Each correct answer will score one mark. A mark will not be deducted for a wrong answer. 
+Any working should be done in this booklet. 
+Electronic calculators may be used. 
+ 
+ 
+2 
+© UCLES 2019 
+9702/12/F/M/19 
+ 
+Data 
+speed of light in free space 
+c = 3.00 × 108
+ m s–1 
+permeability of free space 
+µ0 = 4π × 10–7
+ H m–1 
+permittivity of free space 
+ε0  = 8.85 × 10–12
+ F m–1 
+ 
+(
+0
+4
+1
+πε
+ = 8.99 × 109
+ m F–1) 
+elementary charge 
+e = 1.60 × 10–19
+ C 
+the Planck constant 
+h = 6.63 × 10–34
+ J s 
+unified atomic mass unit 
+1 u = 1.66 × 10–27
+ kg 
+rest mass of electron 
+me = 9.11 × 10–31
+ kg 
+rest mass of proton 
+mp = 1.67 × 10–27
+ kg 
+molar gas constant 
+R = 8.31 J K–1
+ mol–1 
+the Avogadro constant 
+NA = 6.02 × 1023
+ mol–1 
+the Boltzmann constant 
+k = 1.38 × 10–23
+ J K–1 
+gravitational constant 
+G = 6.67 × 10–11
+ N m2
+ kg–2 
+acceleration of free fall 
+g = 9.81 m s–2 
+ 
+3 
+© UCLES 2019 
+9702/12/F/M/19 
+[Turn over 
+Formulae 
+uniformly accelerated motion 
+s = ut + 
+2
+2
+1 at  
+ 
+v 2 = u 2 + 2as 
+work done on/by a gas 
+W = p∆V 
+gravitational potential 
+φ = – r
+Gm  
+hydrostatic pressure 
+p = ρ gh 
+pressure of an ideal gas 
+p = 
+V
+Nm
+3
+1
+<c 2> 
+simple harmonic motion 
+a = – ω 2x 
+velocity of particle in s.h.m. 
+v = v0 cos ω t 
+ 
+v = ± ω 
+)
+(
+2
+02
+x
+x
+−
+ 
+Doppler effect 
+of  = 
+s
+s
+v
+v
+f v
+±
+ 
+electric potential 
+V = 
+r
+Q
+4 ε0
+π
+ 
+capacitors in series 
+1 / C = 1 / C1 + 1 / C2 + . . . 
+capacitors in parallel 
+C = C1 + C2 + . . . 
+energy of charged capacitor 
+W = QV
+2
+1
+ 
+electric current 
+I  = Anvq 
+resistors in series 
+R = R1 + R2 + . . . 
+resistors in parallel 
+1 / R = 1 / R1 + 1 / R2 + . . . 
+Hall voltage 
+VH = ntq
+BI  
+alternating current/voltage 
+x = x0 sin ω t 
+radioactive decay 
+x = x0 exp(–λt) 
+decay constant 
+λ = 
+2
+1
+0.693
+t
+ 
+ 
+ 
+4 
+© UCLES 2019 
+9702/12/F/M/19 
+ 
+1 
+A wave has a frequency of 5 GHz. 
+ 
+What is the period of the wave? 
+A 
+200 ps 
+B 
+2 ns  
+C 
+20 ns 
+D 
+20 000 µs 
+ 
+ 
+2 
+At temperatures close to 0 K, the specific heat capacity c of a particular solid is given by c = bT 3, 
+where T is the temperature and b is a constant, characteristic of the solid. 
+ 
+The SI unit of specific heat capacity is J kg–1
+ K–1. 
+ 
+What is the unit of constant b, expressed in SI base units? 
+A 
+m2
+ s–2
+ K–3 
+B 
+m2
+ s–2
+ K–4 
+C 
+kg m2
+ s–2
+ K–3 
+D 
+kg m2
+ s–2
+ K–4 
+ 
+ 
+3 
+The speed of an aircraft in still air is 200 km h–1. The wind blows from the west at a speed of  
+85.0 km h–1. 
+ 
+In which direction must the pilot steer the aircraft in order to fly due north?  
+A 
+23.0° east of north 
+B 
+23.0° west of north 
+C 
+25.2° east of north 
+D 
+25.2° west of north 
+ 
+ 
+5 
+© UCLES 2019 
+9702/12/F/M/19 
+[Turn over 
+4 
+A digital balance is used to weigh ingredients in a laboratory. When a weight is applied to the 
+digital balance, an electronic circuit generates a current which is then converted into a digital 
+readout on the display. 
+ 
+The electronic circuit gives a current of 2.0 mA when a weight of 30 N is applied, and a current of 
+0.5 mA when a weight of 5 N is applied. 
+ 
+Which calibration curve could represent this circuit? 
+ 
+2
+0
+0
+A
+30
+current / mA
+weight / N
+2
+0
+0
+B
+30
+current / mA
+weight / N
+2
+0
+0
+C
+30
+current / mA
+weight / N
+2
+0
+0
+D
+30
+current / mA
+weight / N  
+ 
+ 
+5 
+Four students measure a time interval that is known to be 1.734 s. 
+ 
+The measurement recorded by each student is shown. 
+ 
+Which measurement is the most accurate? 
+A 
+1 s 
+B 
+1.7 s 
+C 
+1.83 s 
+D 
+1.604 s 
+ 
+ 
+6 
+© UCLES 2019 
+9702/12/F/M/19 
+ 
+6 
+A mass on the end of a spring bounces up and down as shown, after being released at time t = 0. 
+ 
+0
+time t
+distance up
+distance down
+0
+ 
+ 
+Which graph shows how the velocity varies with time? 
+ 
+0
+A
+0
+time t
+velocity up
+0
+B
+0
+time t
+velocity up
+0
+C
+0
+time t
+velocity up
+0
+D
+0
+time t
+velocity up
+ 
+ 
+ 
+7 
+A stone is thrown vertically upwards from a point that is 12 m above the sea. It then falls into the 
+sea below after 3.4 s. 
+ 
+Air resistance is negligible. 
+ 
+At which speed was the stone released when it was thrown? 
+A 
+3.5 m s–1 
+B 
+6.6 m s–1 
+C 
+13 m s–1 
+D 
+20 m s–1 
+ 
+ 
+7 
+© UCLES 2019 
+9702/12/F/M/19 
+[Turn over 
+8 
+Two balls X and Y are moving towards each other with speeds of 5 m s–1 and 15 m s–1 
+respectively. 
+ 
+X
+5 m s–1
+Y
+15 m s–1
+ 
+ 
+They make a perfectly elastic head-on collision and ball Y moves to the right with a speed  
+of 7 m s–1. 
+ 
+What is the speed and direction of ball X after the collision? 
+A 
+3 m s–1 to the left 
+B 
+13 m s–1 to the left 
+C 
+3 m s–1 to the right 
+D 
+13 m s–1 to the right 
+ 
+ 
+9 
+In the absence of air resistance, a ball thrown horizontally from a tower with velocity v, will land 
+after time T seconds. 
+ 
+If, however, air resistance is taken into account, which statement is correct? 
+A 
+The ball lands with a horizontal velocity less than v after more than T seconds. 
+B 
+The ball lands with a horizontal velocity less than v after T seconds. 
+C 
+The ball lands with a horizontal velocity v after more than T seconds. 
+D 
+The ball lands with a horizontal velocity v after T seconds. 
+ 
+ 
+10 Two balls, of masses m and 2m, travelling in a vacuum with initial velocities 2v and v 
+respectively, collide with each other head-on, as shown. 
+ 
+m
+2v
+2m
+v
+ 
+ 
+After the collision, the ball of mass m rebounds to the left with velocity v. 
+ 
+What is the loss of kinetic energy in the collision? 
+A 
+4
+3 mv2 
+B 
+2
+3 mv2 
+C 
+4
+9 mv2 
+D 
+2
+9 mv2 
+ 
+ 
+8 
+© UCLES 2019 
+9702/12/F/M/19 
+ 
+11 A ball falls through a liquid at a constant speed. It is acted upon by three forces: an upthrust, a 
+drag-force and its weight. 
+ 
+Which statement is correct? 
+A 
+The drag-force increases with increasing depth. 
+B 
+The drag-force is equal to the sum of the upthrust and weight. 
+C 
+The upthrust is constant with increasing depth. 
+D 
+The weight is greater than the sum of the drag-force and the upthrust. 
+ 
+ 
+12 A fairground ride consists of four carriages connected to a central vertical pole, as shown in the 
+following view from above. 
+ 
+direction
+of rotation
+not to
+scale
+vertical
+central pole
+carriages
+ 
+ 
+A motor rotates the central pole about its axis. This results in the four carriages each moving 
+along a circular path. 
+ 
+The distance from the middle of each carriage to the centre of the pole is 3.20 m. When they are 
+moving, each carriage experiences an air resistance force of 85.0 N. Assume that there are no 
+other significant resistive forces. 
+ 
+Which torque does the motor need to apply to the pole to keep the system rotating at constant 
+maximum speed? 
+A 
+5.44 N m 
+B 
+272 N m 
+C 
+544 N m 
+D 
+1090 N m 
+ 
+ 
+9 
+© UCLES 2019 
+9702/12/F/M/19 
+[Turn over 
+13 A uniform horizontal beam OX, 4.0 m long and weighing 100 N, is hinged at a wall at point O. It is 
+supported by a cord XY which is attached to the wall at Y. 
+ 
+O
+X
+Y
+30°
+4.0 m
+cord
+ 
+ 
+What is the tension in the cord? 
+A 
+50 N 
+B 
+58 N 
+C 
+86 N 
+D 
+100 N 
+ 
+ 
+14 An object shaped as a hemisphere rests with its flat surface on a table. The object has radius r 
+and density ρ. 
+ 
+r
+table 
+ 
+The volume of a sphere is 3
+4 πr 3. 
+ 
+Which average pressure does the object exert on the table? 
+A 
+3
+1 ρr 2 
+B 
+3
+1 ρr 2g 
+C 
+3
+2 ρr 
+D 
+3
+2 ρrg 
+ 
+ 
+15 Which statement best represents the principle of conservation of energy? 
+A 
+Energy cannot be used faster than it is created. 
+B 
+The supply of energy is limited, so energy must be conserved. 
+C 
+The total energy in a closed system is constant. 
+D 
+The total energy input to a system is equal to the useful energy output. 
+ 
+ 
+16 A crane is being used to lift containers off a ship. One container has a mass of 14 000 kg and is 
+being lifted vertically with a speed of 3.2 m s–1. 
+ 
+The electric motor being used to supply the power to lift the container is using a current of 240 A 
+at a potential difference of 2200 V. 
+ 
+What is the efficiency of the system? 
+A 
+8.1% 
+B 
+8.5% 
+C 
+48% 
+D 
+83% 
+ 
+10 
+© UCLES 2019 
+9702/12/F/M/19 
+ 
+17 The data below are taken from a test of a petrol engine for a motor car. 
+ 
+power output 
+150 kW 
+fuel consumption 
+20 litres per hour 
+energy content of fuel 
+40 MJ per litre 
+ 
+ 
+What is the ratio power output
+power input
+? 
+ 
+A 
+60
+60
+20
+10
+40
+10
+150
+6
+3
+×
+×
+×
+×
+×
+ 
+B 
+6
+3
+10
+40
+20
+60
+60
+10
+150
+×
+×
+×
+×
+×
+ 
+C 
+60
+60
+20
+10
+40
+10
+150
+6
+3
+×
+×
+×
+×
+×
+ 
+D 
+60
+60
+10
+40
+20
+10
+150
+3
+3
+×
+×
+×
+×
+×
+ 
+ 
+ 
+18 Leonardo da Vinci proposed a flying machine that would work like a screw to lift the pilot into the 
+air. The ‘screw’ is rotated by the pilot. 
+ 
+ 
+ 
+The machine and the pilot together have a total mass of 120 kg. 
+ 
+Which useful output power must the pilot provide to move vertically upwards at a constant speed 
+of 2.5 m s–1? 
+A 
+48 W 
+B 
+300 W 
+C 
+470 W 
+D 
+2900 W 
+ 
+ 
+19 A metal wire, fixed at one end, has length l and cross-sectional area A. The wire extends a 
+distance e when mass m is hung from the other end of the wire. 
+ 
+What is an expression for the Young Modulus E of the metal? 
+A 
+E = Ae
+ml  
+B 
+E = mgl
+Ae  
+C 
+E = me
+Al  
+D 
+E = mge
+Al
+ 
+ 
+ 
+11 
+© UCLES 2019 
+9702/12/F/M/19 
+[Turn over 
+20 A spring has a spring constant of 6.0 N cm –1. It is joined to another spring whose spring constant 
+is 4.0 N cm–1. A load of 80 N is suspended from this composite spring. 
+ 
+load
+80 N
+6.0 N cm–1
+4.0 N cm–1
+ 
+ 
+What is the extension of this composite spring? 
+A 
+8.0 cm 
+B 
+16 cm 
+C 
+17 cm 
+D 
+33 cm 
+ 
+ 
+21 The graph shows the extension of a sample of a type of rubber as different loads F are applied 
+and then gradually removed. 
+ 
+100
+80
+60
+40
+20
+0
+F / N
+extension / mm
+0
+4
+8
+12
+16
+ 
+ 
+What is the best estimate of the strain energy in the rubber when a load of 80 N is applied? 
+A 
+0.40 J 
+B 
+0.64 J 
+C 
+0.88 J 
+D 
+1.3 J 
+ 
+ 
+12 
+© UCLES 2019 
+9702/12/F/M/19 
+ 
+22 A sound wave passes through air. 
+ 
+The diagram shows the positions of the molecules of the air at one instant. 
+ 
+P
+Q
+R
+S
+ 
+ 
+Which distance is equal to the wavelength of the wave? 
+A 
+PQ 
+B 
+PS 
+C 
+QR 
+D 
+QS 
+ 
+ 
+23 The top row of bars represents a set of particles inside the Earth and at rest. 
+ 
+The lower row represents the same particles at one instant as a longitudinal wave passes from 
+left to right through the Earth. 
+ 
+ 
+ 
+What should be measured to determine the amplitude of the oscillations of the particles in the 
+lower row as the wave passes? 
+A 
+half the maximum displacement of the particles from their position at rest 
+B 
+half the maximum distance apart of the particles 
+C 
+the maximum displacement of the particles from their position at rest 
+D 
+the maximum distance apart of the particles 
+ 
+ 
+24 A straight tube is closed at one end and has a loudspeaker positioned at the open end. The 
+frequency of the loudspeaker is initially very low and is increased slowly. A series of loudness 
+maxima are heard. The stationary wave which gives the first maximum has a node at the closed 
+end and an antinode at the open end. The frequency of the loudspeaker is f1 when the first 
+maximum is heard. 
+ 
+What is the frequency of the loudspeaker when the fourth maximum is heard? 
+A 
+4
+7 1 f  
+B 
+2f1 
+C 
+4f1 
+D 
+7f1 
+ 
+ 
+13 
+© UCLES 2019 
+9702/12/F/M/19 
+[Turn over 
+25 A buzzer emitting sound of frequency 846 Hz is attached to a string and rotated in a horizontal 
+circle. The linear speed of the buzzer is 25.0 m s–1. 
+ 
+observer
+buzzer
+ 
+ 
+The speed of sound is 340 m s–1. 
+ 
+What is the maximum frequency heard by the observer? 
+A 
+783 Hz 
+B 
+788 Hz 
+C 
+908 Hz 
+D 
+913 Hz 
+ 
+ 
+26 The diagram shows the principal regions of the electromagnetic spectrum, with some details 
+labelled. The diagram is not to scale. 
+ 
+wavelength increasing
+Q
+10–10 m
+ 
+ 
+What is a typical order of magnitude of the wavelength of the radiation in region Q? 
+A 
+10–7
+ m 
+B 
+10–5
+ m 
+C 
+10–2
+ m 
+D 
+100
+ m 
+ 
+ 
+27 P and Q are fixed points at the end of a string. A transverse stationary wave of constant 
+maximum amplitude is formed on the string. 
+ 
+P
+R
+T
+S
+Q
+x
+x
+ 
+ 
+P, R and Q are the only points on the string where nodes are formed. S and T are two points on 
+the string at a distance x from R. 
+ 
+What is the relationship between points S and T? 
+A 
+the same amplitude and in phase 
+B 
+different amplitudes and in phase 
+C 
+the same amplitude and a phase difference of 180° 
+D 
+different amplitudes and a phase difference of 180° 
+ 
+ 
+14 
+© UCLES 2019 
+9702/12/F/M/19 
+ 
+28 Two identical loudspeakers are connected in series to an a.c. supply, as shown. 
+ 
+speaker
+speaker
+a.c. supply
+P
+Q 
+ 
+A microphone is moved along the line PQ. 
+ 
+Which graph best shows the variation with distance from P of the intensity of the sound detected 
+by the microphone? 
+ 
+intensity
+distance
+0
+P
+A
+Q
+intensity
+distance
+0
+P
+B
+Q
+intensity
+distance
+0
+P
+C
+Q
+intensity
+distance
+0
+P
+D
+Q
+ 
+ 
+ 
+15 
+© UCLES 2019 
+9702/12/F/M/19 
+[Turn over 
+29 A diffraction grating experiment is set up using orange light of wavelength 600 nm. The grating 
+has a slit separation of 2.00 µm. 
+ 
+light of
+wavelength
+600 nm
+grating
+2nd order orange
+1st order orange
+θ1
+θ2
+ 
+ 
+What is the angular separation (θ2 – θ1) between the first and second order maxima of the orange 
+light? 
+A 
+17.5° 
+B 
+19.4° 
+C 
+36.9° 
+D 
+54.3° 
+ 
+ 
+30 Two horizontal parallel plate conductors are separated by a distance of 5.0 mm in air. The lower 
+plate is earthed and the potential of the upper plate is +50 V. 
+ 
+What is the electric field strength E at a point midway between the plates? 
+A 
+1.0 × 104
+ V m–1 downwards 
+B 
+1.0 × 104
+ V m–1 upwards 
+C 
+2.0 × 104
+ V m–1 downwards 
+D 
+2.0 × 104
+ V m–1 upwards 
+ 
+ 
+16 
+© UCLES 2019 
+9702/12/F/M/19 
+ 
+31 The diagram shows the electric field near a point charge and two electrons X and Y. 
+ 
+X
+Y
+ 
+ 
+Which row describes the forces acting on X and on Y? 
+ 
+ 
+direction of force 
+magnitude of force on X 
+A 
+radially inwards 
+less than force on Y 
+B 
+radially inwards 
+greater than force on Y 
+C 
+radially outwards 
+less than force on Y 
+D 
+radially outwards 
+greater than force on Y 
+ 
+ 
+32 The electric current in a wire may be calculated using the equation I = Anvq. 
+ 
+Which statement is not correct? 
+A 
+n is the number of charge carriers per unit volume of the wire. 
+B 
+nA is the number of charge carriers per unit length of the wire. 
+C 
+q is the charge of each charge carrier. 
+D 
+v is the velocity of each charge carrier. 
+ 
+ 
+17 
+© UCLES 2019 
+9702/12/F/M/19 
+[Turn over 
+33 Three resistors are connected in parallel across a power supply, as shown. 
+ 
++
+–
+2 Ω
+3 Ω
+4 Ω
+ 
+ 
+The power dissipated in each of the resistors of resistance 2 Ω, 3 Ω and 4 Ω is P2, P3 and P4 
+respectively. 
+ 
+What is the ratio P2 : P3 : P4? 
+A 
+2 : 3 : 4 
+B 
+4 : 3 : 2 
+C 
+6 : 4 : 3 
+D 
+36 : 16 : 9 
+ 
+ 
+34 Which graph shows the variation with current I of the potential difference V of a filament lamp? 
+ 
+A
+I
+V
+B
+I
+V
+C
+I
+V
+D
+I
+V
+0
+0
+0
+0
+0
+0
+0
+0
+ 
+ 
+ 
+35 A wire of cross-sectional area 5.0 × 10–6
+ m2 is made of a metal of resistivity 50 × 10–8
+ Ω m. 
+ 
+The potential difference across the wire is 6.0 V and the current is 3.0 A. 
+ 
+What is the length of the wire? 
+A 
+0.050 m 
+B 
+0.20 m 
+C 
+5.0 m 
+D 
+20 m 
+ 
+ 
+18 
+© UCLES 2019 
+9702/12/F/M/19 
+ 
+36 A cell of internal resistance r and electromotive force (e.m.f.) E is connected in series with a 
+resistor of resistance R. 
+ 
+R
+I
+E
+r
+ 
+ 
+The resistance R and the e.m.f. E remain fixed. The internal resistance r of the cell changes over 
+time. 
+ 
+Which graph best shows the variation of the current I in the circuit with the internal resistance r ? 
+ 
+I
+r
+A
+0
+0
+I
+r
+B
+0
+0
+I
+r
+C
+0
+0
+I
+r
+D
+0
+0
+ 
+ 
+ 
+19 
+© UCLES 2019 
+9702/12/F/M/19 
+[Turn over 
+37 Identical resistors are connected in four combinations P, Q, R and S between terminals X and Y. 
+ 
+P
+X
+Y
+Q
+X
+Y
+R
+X
+Y
+S
+X
+Y
+ 
+ 
+What is the order of decreasing combined resistance between X and Y (largest first)? 
+A 
+P → S → Q → R 
+B 
+P → S → R → Q 
+C 
+Q → R → S → P 
+D 
+S → P → Q → R 
+ 
+ 
+38 The circuit shown consists of two resistors of resistances 10 kΩ and 50 kΩ and a component Y. 
+ 
+A 6.0 V supply is provided. The electric potential of the bottom wire is 0 V. 
+ 
+6.0 V
+10 kΩ
+50 kΩ
+X
+0 V
+component Y
+ 
+ 
+The current in component Y is negligible. 
+ 
+What is the electric potential at junction X? 
+A 
+1.0 V 
+B 
+1.2 V 
+C 
+4.8 V 
+D 
+5.0 V 
+ 
+ 
+

@@ -1,0 +1,82 @@
+
+card using_lesson_study_as_a_whole-school_approach_to_improving_guided_writing-one
+    title "the educational challenge : Lack of engagement in writing"
+    text "The boys were initially reluctant to write more than a few words, which suggests a lack of engagement in writing."
+    choice "solution" -> using_lesson_study_as_a_whole-school_approach_to_improving_guided_writing-one
+
+card using_lesson_study_as_a_whole-school_approach_to_improving_guided_writing-one-solution
+    title "the educational challenge : Lack of engagement in writing"
+    text "To address the issue of lack of engagement in writing among boys in Year 7, teachers can follow these steps:
+Identify the root cause: Before implementing any solutions, it is essential to understand why the boys are reluctant to write. Conduct interviews or surveys to gather information about their interests, motivations, and concerns.
+Use active stimuli: Encourage boys to participate in hands-on activities, such as drama activities, field trips, and creative writing exercises. These activities can help stimulate their interest in writing and provide opportunities for them to express themselves creatively.
+Foster a supportive environment: Create a safe and nurturing environment where boys feel comfortable sharing their thoughts and ideas. Offer praise and constructive feedback to build their confidence and motivation.
+Set achievable goals: Break down writing assignments into smaller, manageable chunks. Set clear expectations and deadlines to help boys stay focused and motivated.
+Celebrate achievements: Recognize and celebrate even small successes to reinforce positive behavior and boost self-esteem. Consider hosting a celebratory event involving parents to showcase the boys' writing accomplishments.
+By following these steps, teachers can help motivate boys who are reluctant to write and encourage them to become engaged and confident writers."
+    choice "child reaction" -> using_lesson_study_as_a_whole-school_approach_to_improving_guided_writing-one-reaction
+
+
+card using_lesson_study_as_a_whole-school_approach_to_improving_guided_writing-one-reaction
+    title "Lack of engagement in writing : childern reaction"
+    text "To address the issue of low self-confidence among boys in Year 7, teachers can follow these steps:
+Build rapport: Establish a positive relationship with each boy by showing genuine interest in his interests and concerns.
+Provide positive feedback: Regularly offer specific, positive feedback on each boy's writing, focusing on strengths and areas of growth.
+Set realistic goals: Help each boy set attainable writing goals, starting with short-term objectives and building toward longer-term targets.
+Offer choice: Allow boys to choose topics and genres that align with their interests, increasing motivation and engagement.
+Promote collaboration: Encourage boys to collaborate with peers, providing opportunities for constructive feedback and revision.
+Highlight examples: Share examples of high-quality writing from other students or professional authors, demonstrating what excellence looks like.
+Celebrate progress: Regularly recognize and celebrate even small successes, reinforcing positive behaviors and boosting self-confidence.
+By following these steps, teachers can help boys overcome feelings of inadequacy and develop greater confidence in their writing abilities."
+    choice "child reaction" -> using_lesson_study_as_a_whole-school_approach_to_improving_guided_writing-two
+
+card using_lesson_study_as_a_whole-school_approach_to_improving_guided_writing-two
+    title "the educational challenge : Limited writing skills"
+    text "The boys lacked the necessary writing skills to produce sustained narrative writing and poems."
+    choice "solution" -> using_lesson_study_as_a_whole-school_approach_to_improving_guided_writing-two
+
+card using_lesson_study_as_a_whole-school_approach_to_improving_guided_writing-two-solution
+    title "the educational challenge : Limited writing skills"
+    text "To address the issue of limited writing skills among boys in Year 7, teachers can follow these steps:
+Assess current skill level: Administer pre-assessment tools to determine each boy's current writing ability and identify areas for improvement.
+Provide scaffolding: Provide structured writing activities that gradually introduce new concepts and techniques while offering appropriate levels of challenge and support.
+Model effective writing strategies: Demonstrate effective writing strategies during whole-class instruction, such as planning, drafting, revising, and editing.
+Provide explicit feedback: Provide detailed, constructive feedback on each boy's writing, highlighting strengths and weaknesses and suggesting areas for improvement.
+Utilize technology: Incorporate digital tools and resources, such as online grammar and spelling checkers, to enhance writing accuracy and efficiency.
+Foster peer collaboration: Facilitate collaborative writing activities, such as peer review and editing, to encourage critical thinking and reflection on writing processes.
+By following these steps, teachers can help boys develop their writing skills and become more confident and capable writers."
+    choice "child reaction" -> using_lesson_study_as_a_whole-school_approach_to_improving_guided_writing-two-reaction
+
+
+card using_lesson_study_as_a_whole-school_approach_to_improving_guided_writing-two-reaction
+    title "Limited writing skills : childern reaction"
+    text "As a student, I found the teacher's response helpful in addressing my limited writing skills. I appreciated the fact that the teacher took the time to assess my current skill level and provided scaffolding to help me improve. The demonstration of effective writing strategies during whole-class instruction was also very useful, as it helped me better understand the writing process and learn from others.
+However, I was initially hesitant about receiving feedback on my writing, as I feared criticism and rejection. However, when the teacher provided detailed, constructive feedback on my work, I realized that she was not judging me but rather helping me grow as a writer. Her encouragement and guidance made me feel more confident in my writing abilities and motivated me to continue improving.
+Overall, I felt grateful for the teacher's efforts to help me develop my writing skills and become a better writer. Her approach was both challenging and supportive, which allowed me to push myself beyond my comfort zone while still feeling valued and respected. I am excited to see how much I can improve over the course of the year."
+    choice "child reaction" -> using_lesson_study_as_a_whole-school_approach_to_improving_guided_writing-three
+
+card using_lesson_study_as_a_whole-school_approach_to_improving_guided_writing-three
+    title "the educational challenge : Low self-confidence"
+    text "The boys may have had low self-confidence in their writing abilities, leading to reluctance to engage in writing tasks."
+    choice "solution" -> using_lesson_study_as_a_whole-school_approach_to_improving_guided_writing-three
+
+card using_lesson_study_as_a_whole-school_approach_to_improving_guided_writing-three-solution
+    title "the educational challenge : Low self-confidence"
+    text "To address the issue of low self-confidence among boys in Year 7, teachers can follow these steps:
+Build rapport: Establish a positive relationship with each boy by showing genuine interest in his interests and concerns.
+Provide positive feedback: Regularly offer specific, positive feedback on each boy's writing, focusing on strengths and areas of growth.
+Set realistic goals: Help each boy set attainable writing goals, starting with short-term objectives and building toward longer-term targets.
+Offer choice: Allow boys to choose topics and genres that align with their interests, increasing motivation and engagement.
+Promote collaboration: Encourage boys to collaborate with peers, providing opportunities for constructive feedback and revision.
+Highlight examples: Share examples of high-quality writing from other students or professional authors, demonstrating what excellence looks like.
+Celebrate progress: Regularly recognize and celebrate even small successes, reinforcing positive behaviors and boosting self-confidence.
+By following these steps, teachers can help boys overcome feelings of inadequacy and develop greater confidence in their writing abilities."
+    choice "child reaction" -> using_lesson_study_as_a_whole-school_approach_to_improving_guided_writing-three-reaction
+
+card using_lesson_study_as_a_whole-school_approach_to_improving_guided_writing-three-reaction
+    title "Low self-confidence : childern reaction"
+    text "As a student, I would appreciate the effort put into helping me improve my writing skills. I would feel encouraged by the positive feedback and the opportunity to collaborate with my peers. I would also find it motivating to see examples of high-quality writing and to set achievable goals. Overall, I would feel more confident in my writing abilities and more engaged in the learning process."
+    choice "child reaction" -> using_lesson_study_as_a_whole-school_approach_to_improving_guided_writing-end
+
+card using_lesson_study_as_a_whole-school_approach_to_improving_guided_writing-end
+    title "practice finshied"
+    text "thank you for your time" 

@@ -1,0 +1,66 @@
+
+card boiler_suits_and_buns:_using_modelling_in_science_to_develop_independent_learning-one
+    title "the educational challenge : Lack of consistency in the SEN register"
+    text "This issue refers to the inconsistency in the way the Special Educational Needs (SEN) register is managed within the school. It suggests that there are discrepancies between different staff members regarding who should be included on the register and how they should be supported."
+    choice "solution" -> boiler_suits_and_buns:_using_modelling_in_science_to_develop_independent_learning-one
+
+card boiler_suits_and_buns:_using_modelling_in_science_to_develop_independent_learning-one-solution
+    title "the educational challenge : Lack of consistency in the SEN register"
+    text "To solve the problem of inconsistency in the SEN register, teachers can follow these steps:
+Identify the root cause of the inconsistency: Teachers should investigate why there are discrepancies between different staff members regarding who should be included on the register and how they should be supported.
+Develop a clear process: Teachers should develop a clear process for managing the SEN register, which includes guidelines for identifying students who need additional support and procedures for updating the register.
+Provide training and support: Teachers should provide training and support to ensure that all staff members understand the importance of consistency in the SEN register and how to implement the new process effectively.
+Monitor and evaluate progress: Teachers should monitor the implementation of the new process and evaluate its effectiveness in improving consistency in the SEN register. They should adjust the process as needed to ensure that it continues to address the underlying causes of the inconsistency.
+By following these steps, teachers can help to create a consistent and effective system for supporting students with special educational needs, which will benefit both students and staff members."
+    choice "child reaction" -> boiler_suits_and_buns:_using_modelling_in_science_to_develop_independent_learning-one-reaction
+
+
+card boiler_suits_and_buns:_using_modelling_in_science_to_develop_independent_learning-one-reaction
+    title "Lack of consistency in the SEN register : childern reaction"
+    text "As a student, I would feel relieved and reassured after hearing the teacher's response to the problem of inconsistency in the SEN register. Knowing that the school is taking steps to address the issue and create a more consistent and effective system for supporting students with special educational needs would make me feel like my needs are being taken seriously and prioritized. Additionally, having a clear process in place would likely lead to better communication among staff members and improved outcomes for students, which would further enhance my confidence in the school's ability to support me. Overall, I would feel hopeful and optimistic about the future of my education at the school."
+    choice "child reaction" -> boiler_suits_and_buns:_using_modelling_in_science_to_develop_independent_learning-two
+
+card boiler_suits_and_buns:_using_modelling_in_science_to_develop_independent_learning-two
+    title "the educational challenge : Inconsistency in the aspect of self-regulating behavior"
+    text "This issue relates to the inconsistency in the way that self-regulating behavior is approached within the school. It suggests that there is a lack of clarity around what constitutes appropriate behavior and how it should be addressed when incidents occur."
+    choice "solution" -> boiler_suits_and_buns:_using_modelling_in_science_to_develop_independent_learning-two
+
+card boiler_suits_and_buns:_using_modelling_in_science_to_develop_independent_learning-two-solution
+    title "the educational challenge : Inconsistency in the aspect of self-regulating behavior"
+    text "To solve the problem of inconsistency in the aspect of self-regulating behavior, teachers can follow these steps:
+Identify the root cause of the inconsistency: Teachers should investigate why there is a lack of clarity around what constitutes appropriate behavior and how it should be addressed when incidents occur.
+Develop a clear process: Teachers should develop a clear process for addressing incidents of inappropriate behavior, which includes guidelines for defining appropriate behavior and consequences for misbehavior.
+Provide training and support: Teachers should provide training and support to ensure that all staff members understand the importance of consistency in addressing incidents of inappropriate behavior and how to implement the new process effectively.
+Monitor and evaluate progress: Teachers should monitor the implementation of the new process and evaluate its effectiveness in reducing incidents of inappropriate behavior. They should adjust the process as needed to ensure that it continues to address the underlying causes of the inconsistency.
+By following these steps, teachers can help to create a consistent and effective system for addressing incidents of inappropriate behavior, which will benefit both students and staff members."
+    choice "child reaction" -> boiler_suits_and_buns:_using_modelling_in_science_to_develop_independent_learning-two-reaction
+
+
+card boiler_suits_and_buns:_using_modelling_in_science_to_develop_independent_learning-two-reaction
+    title "Inconsistency in the aspect of self-regulating behavior : childern reaction"
+    text "As a student, I would feel encouraged and motivated by the teacher's response to the problem of inconsistency in the aspect of self-regulating behavior. Having a clear process in place would provide me with a sense of structure and guidance, which would help me to understand what is expected of me and how to behave appropriately. Additionally, knowing that the school is committed to creating a safe and supportive environment would make me feel valued and respected, which would further motivate me to engage positively with my studies and my peers. Overall, I would feel empowered and confident in my ability to navigate challenging situations and maintain positive relationships with others."
+    choice "child reaction" -> boiler_suits_and_buns:_using_modelling_in_science_to_develop_independent_learning-three
+
+card boiler_suits_and_buns:_using_modelling_in_science_to_develop_independent_learning-three
+    title "the educational challenge : Lack of focus on quality first"
+    text "This issue refers to the lack of emphasis placed on ensuring that every child receives high-quality education. It suggests that some students may not be receiving the level of attention and support they require to succeed academically."
+    choice "solution" -> boiler_suits_and_buns:_using_modelling_in_science_to_develop_independent_learning-three
+
+card boiler_suits_and_buns:_using_modelling_in_science_to_develop_independent_learning-three-solution
+    title "the educational challenge : Lack of focus on quality first"
+    text "To solve the problem of lack of focus on quality first, teachers can follow these steps:
+Identify the root cause of the problem: Teachers should investigate why some students may not be receiving the level of attention and support they require to succeed academically.
+Develop a clear process: Teachers should develop a clear process for assessing each student's needs and providing them with individualized support.
+Provide training and support: Teachers should provide training and support to ensure that all staff members understand the importance of focusing on quality first and how to implement the new process effectively.
+Monitor and evaluate progress: Teachers should monitor the implementation of the new process and evaluate its effectiveness in improving the quality of education for all students. They should adjust the process as needed to ensure that it continues to address the underlying causes of the problem.
+By following these steps, teachers can help to create a culture of excellence and ensure that all students receive the support they need to succeed academically."
+    choice "child reaction" -> boiler_suits_and_buns:_using_modelling_in_science_to_develop_independent_learning-three-reaction
+
+card boiler_suits_and_buns:_using_modelling_in_science_to_develop_independent_learning-three-reaction
+    title "Lack of focus on quality first : childern reaction"
+    text "As a student, I would feel encouraged and motivated by the teacher's response to the problem of lack of focus on quality first. Having a clear process in place would provide me with a sense of structure and guidance, which would help me to understand what is expected of me and how to achieve academic success. Additionally, knowing that the school is committed to creating a culture of excellence would make me feel valued and respected, which would further motivate me to engage positively with my studies and my peers. Overall, I would feel empowered and confident in my ability to succeed academically and become a lifelong learner."
+    choice "child reaction" -> boiler_suits_and_buns:_using_modelling_in_science_to_develop_independent_learning-end
+
+card boiler_suits_and_buns:_using_modelling_in_science_to_develop_independent_learning-end
+    title "practice finshied"
+    text "thank you for your time" 

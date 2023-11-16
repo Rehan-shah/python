@@ -1,0 +1,14 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <title></title>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+  </head>
+  <body>
+    {% for blog_post in post: %}
+    <h1>{{ blog_post["title"]}}</h1>
+    <h2>{{ blog_post["subtitle"]}}</h2>
+    {% endfor %}
+  </body>
+</html>

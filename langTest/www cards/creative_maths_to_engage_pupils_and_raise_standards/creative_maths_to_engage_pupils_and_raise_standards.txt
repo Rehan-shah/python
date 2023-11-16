@@ -1,0 +1,79 @@
+
+card creative_maths_to_engage_pupils_and_raise_standards-one
+    title "the educational challenge : Addressing Poor Pupil Behavior in Mathematics Classrooms"
+    text "The passage mentions that poor pupil behavior was a significant issue across the mathematics department. This could lead to disruptions in class, lower levels of engagement, and decreased academic performance."
+    choice "solution" -> creative_maths_to_engage_pupils_and_raise_standards-one
+
+card creative_maths_to_engage_pupils_and_raise_standards-one-solution
+    title "the educational challenge : Addressing Poor Pupil Behavior in Mathematics Classrooms"
+    text "To address poor pupil behavior in mathematics classrooms, teachers can implement several strategies such as:
+Setting clear rules and consequences: Teachers should establish clear rules and consequences for inappropriate behavior, and consistently enforce them.
+Building relationships: Teachers should take the time to get to know their students and build positive relationships with them. This can help create a supportive and respectful classroom environment.
+Providing structure and routine: Teachers should provide a structured and predictable routine for their classes, which can help reduce disruptive behaviors.
+Using active learning techniques: Teachers should use active learning techniques such as hands-on activities, group work, and discussions to engage students and keep them focused.
+Monitoring and addressing individual needs: Teachers should monitor individual student behavior and intervene as necessary to address any underlying causes of misbehavior.
+Encouraging self-reflection: Teachers should encourage students to reflect on their behavior and consider how it affects others.
+Overall, addressing poor pupil behavior requires consistent effort and attention from teachers, but implementing these strategies can help create a positive and productive learning environment for all students."
+    choice "child reaction" -> creative_maths_to_engage_pupils_and_raise_standards-one-reaction
+
+
+card creative_maths_to_engage_pupils_and_raise_standards-one-reaction
+    title "Addressing Poor Pupil Behavior in Mathematics Classrooms : childern reaction"
+    text "To reduce absence rates and improve engagement in mathematics classes, teachers can implement several strategies such as:
+Establishing clear rules and consequences: Teachers should set clear rules and consequences for absenteeism and tardiness, and consistently enforce them.
+Creating a positive classroom environment: Teachers should strive to create a welcoming and supportive atmosphere in the classroom, where students feel valued and respected.
+Involving parents: Teachers should involve parents in monitoring their child's attendance and encouraging good habits.
+Offering incentives: Teachers can offer incentives to reward good attendance, such as extra credit or prizes.
+Providing alternative options: Teachers should provide alternative options for students who cannot attend class, such as online resources or one-on-one tutoring sessions.
+Monitoring and addressing individual needs: Teachers should monitor individual student attendance patterns and intervene as necessary to address any underlying issues, such as health problems or family difficulties.
+Overall, reducing absence rates and improving engagement in mathematics classes requires consistent effort and attention from teachers, but implementing these strategies can help create a positive and productive learning environment for all students."
+    choice "child reaction" -> creative_maths_to_engage_pupils_and_raise_standards-two
+
+card creative_maths_to_engage_pupils_and_raise_standards-two
+    title "the educational challenge : Reducing Absence Rates and Improving Engagement in Mathematics Classes"
+    text "Another issue identified in the passage was high absence rates among the targeted pupil group. This could result in missed instruction, gaps in understanding, and reduced motivation to attend classes."
+    choice "solution" -> creative_maths_to_engage_pupils_and_raise_standards-two
+
+card creative_maths_to_engage_pupils_and_raise_standards-two-solution
+    title "the educational challenge : Reducing Absence Rates and Improving Engagement in Mathematics Classes"
+    text "To reduce absence rates and improve engagement in mathematics classes, teachers can implement several strategies such as:
+Establishing clear rules and consequences: Teachers should set clear rules and consequences for absenteeism and tardiness, and consistently enforce them.
+Creating a positive classroom environment: Teachers should strive to create a welcoming and supportive atmosphere in the classroom, where students feel valued and respected.
+Involving parents: Teachers should involve parents in monitoring their child's attendance and encouraging good habits.
+Offering incentives: Teachers can offer incentives to reward good attendance, such as extra credit or prizes.
+Providing alternative options: Teachers should provide alternative options for students who cannot attend class, such as online resources or one-on-one tutoring sessions.
+Monitoring and addressing individual needs: Teachers should monitor individual student attendance patterns and intervene as necessary to address any underlying issues, such as health problems or family difficulties.
+Overall, reducing absence rates and improving engagement in mathematics classes requires consistent effort and attention from teachers, but implementing these strategies can help create a positive and productive learning environment for all students."
+    choice "child reaction" -> creative_maths_to_engage_pupils_and_raise_standards-two-reaction
+
+
+card creative_maths_to_engage_pupils_and_raise_standards-two-reaction
+    title "Reducing Absence Rates and Improving Engagement in Mathematics Classes : childern reaction"
+    text "As a student, I would appreciate my teacher taking the time to explain why attendance is important and providing strategies to help me stay engaged in math class. I would feel supported and cared for knowing that my teacher is looking out for my best interests and wants me to succeed. However, if I am struggling with attendance or engagement, I would also appreciate having alternative options available to me so that I can still learn even if I can't physically be in class. Overall, I think my teacher's response shows that they care about my education and want me to succeed, which makes me feel motivated and encouraged to do my best."
+    choice "child reaction" -> creative_maths_to_engage_pupils_and_raise_standards-three
+
+card creative_maths_to_engage_pupils_and_raise_standards-three
+    title "the educational challenge : Increasing Student Motivation and Engagement in Mathematics Learning"
+    text "Finally, the passage suggests that some students may not be motivated to perform well in mathematics due to a lack of interest or perceived relevance. This could negatively impact academic achievement and future prospects."
+    choice "solution" -> creative_maths_to_engage_pupils_and_raise_standards-three
+
+card creative_maths_to_engage_pupils_and_raise_standards-three-solution
+    title "the educational challenge : Increasing Student Motivation and Engagement in Mathematics Learning"
+    text "To reduce absence rates and improve engagement in mathematics classes, teachers can implement several strategies such as:
+Establishing clear rules and consequences: Teachers should set clear rules and consequences for absenteeism and tardiness, and consistently enforce them.
+Creating a positive classroom environment: Teachers should strive to create a welcoming and supportive atmosphere in the classroom, where students feel valued and respected.
+Involving parents: Teachers should involve parents in monitoring their child's attendance and encouraging good habits.
+Offering incentives: Teachers can offer incentives to reward good attendance, such as extra credit or prizes.
+Providing alternative options: Teachers should provide alternative options for students who cannot attend class, such as online resources or one-on-one tutoring sessions.
+Monitoring and addressing individual needs: Teachers should monitor individual student attendance patterns and intervene as necessary to address any underlying issues, such as health problems or family difficulties.
+Overall, reducing absence rates and improving engagement in mathematics classes requires consistent effort and attention from teachers, but implementing these strategies can help create a positive and productive learning environment for all students."
+    choice "child reaction" -> creative_maths_to_engage_pupils_and_raise_standards-three-reaction
+
+card creative_maths_to_engage_pupils_and_raise_standards-three-reaction
+    title "Increasing Student Motivation and Engagement in Mathematics Learning : childern reaction"
+    text "As a student, I would appreciate my teacher taking the time to explain why attendance is important and providing strategies to help me stay engaged in math class. I would feel supported and cared for knowing that my teacher is looking out for my best interests and wants me to succeed. However, if I am struggling with attendance or engagement, I would also appreciate having alternative options available to me so that I can still learn even if I can't physically be in class. Overall, I think my teacher's response shows that they care about my education and want me to succeed, which makes me feel motivated and encouraged to do my best."
+    choice "child reaction" -> creative_maths_to_engage_pupils_and_raise_standards-end
+
+card creative_maths_to_engage_pupils_and_raise_standards-end
+    title "practice finshied"
+    text "thank you for your time" 

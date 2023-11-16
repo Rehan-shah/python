@@ -1,0 +1,51 @@
+
+card the_impact_of_talk_and_role_play_on_writing-one
+    title "the educational challenge : Movement to Higher Order Thinking Skills"
+    text "The movement towards higher order thinking skills involves the development of critical thinking, problem solving, and creative thinking abilities in students. This requires a shift in focus from rote memorization and recall to deeper levels of understanding and application."
+    choice "solution" -> the_impact_of_talk_and_role_play_on_writing-one
+
+card the_impact_of_talk_and_role_play_on_writing-one-solution
+    title "the educational challenge : Movement to Higher Order Thinking Skills"
+    text "To help students develop higher order thinking skills in science, teachers can incorporate inquiry-based learning activities into their lesson plans. Inquiry-based learning allows students to explore scientific concepts through hands-on experiments, investigations, and discussions. By engaging in active learning, students are able to develop critical thinking skills and apply their knowledge to solve problems. Additionally, teachers can provide scaffolded instruction and support to guide students through the process of inquiry-based learning. This approach helps students build confidence in their ability to tackle complex problems and encourages them to take ownership of their learning. Finally, teachers can utilize formative assessments throughout the inquiry process to gauge student understanding and adjust their instruction accordingly. By implementing these strategies, teachers can create an environment that fosters higher order thinking skills and promotes deep learning in science."
+    choice "child reaction" -> the_impact_of_talk_and_role_play_on_writing-one-reaction
+
+
+card the_impact_of_talk_and_role_play_on_writing-one-reaction
+    title "Movement to Higher Order Thinking Skills : childern reaction"
+    text "As a student, I found the teacher's response helpful in understanding how to develop higher order thinking skills in science. The idea of incorporating inquiry-based learning activities into lesson plans sounded exciting and engaging. I liked the idea of being able to explore scientific concepts through hands-on experiments and discussions. However, I was unsure if I could actually put these skills into practice without guidance. I appreciated the suggestion of utilizing formative assessments throughout the inquiry process to gauge my understanding and adjust my learning. Overall, I felt motivated and optimistic about improving my critical thinking skills in science."
+    choice "child reaction" -> the_impact_of_talk_and_role_play_on_writing-two
+
+card the_impact_of_talk_and_role_play_on_writing-two
+    title "the educational challenge : Pupils Comment on Strengths and Areas for Development"
+    text "This issue relates to the need for students to engage in self-assessment and reflection on their own learning. It highlights the importance of providing opportunities for students to receive feedback and reflect on their progress, while also encouraging them to identify areas for growth and set goals for future learning."
+    choice "solution" -> the_impact_of_talk_and_role_play_on_writing-two
+
+card the_impact_of_talk_and_role_play_on_writing-two-solution
+    title "the educational challenge : Pupils Comment on Strengths and Areas for Development"
+    text "To help students develop self-assessment and reflection skills, teachers can implement various strategies in the classroom. One way is to provide frequent opportunities for students to evaluate their own work and receive feedback from both peers and teachers. Teachers can also model self-reflection by discussing their own thought processes and decision-making when completing tasks. Additionally, teachers can encourage students to set personal goals and track their progress over time. By incorporating these strategies into daily routines, teachers can foster a culture of continuous improvement and promote lifelong learning skills in their students."
+    choice "child reaction" -> the_impact_of_talk_and_role_play_on_writing-two-reaction
+
+
+card the_impact_of_talk_and_role_play_on_writing-two-reaction
+    title "Pupils Comment on Strengths and Areas for Development : childern reaction"
+    text "As a student, I found the teacher's response helpful in understanding how to develop self-assessment and reflection skills. The idea of providing frequent opportunities for students to evaluate their own work and receive feedback from both peers and teachers seemed like a great way to improve my skills. I liked the idea of modeling self-reflection by discussing my own thought processes and decision-making when completing tasks. I appreciated the encouragement to set personal goals and track my progress over time. I felt motivated and excited to start practicing these skills regularly. Overall, I felt confident that I could improve my self-assessment and reflection skills with the help of my teacher."
+    choice "child reaction" -> the_impact_of_talk_and_role_play_on_writing-three
+
+card the_impact_of_talk_and_role_play_on_writing-three
+    title "the educational challenge : Variety of Other Aspects Supported"
+    text "This issue addresses the range of benefits that can result from the implementation of models in the classroom, including group talk, effective writing, and self-assessment. These benefits extend beyond academic achievement and contribute to the overall development of students as learners and individuals."
+    choice "solution" -> the_impact_of_talk_and_role_play_on_writing-three
+
+card the_impact_of_talk_and_role_play_on_writing-three-solution
+    title "the educational challenge : Variety of Other Aspects Supported"
+    text "To help students develop a variety of skills and competencies, teachers can implement various strategies in the classroom. One way is to use models to support the development of ideas in lessons. Models can be used to illustrate key concepts, demonstrate relationships between different parts of a system, and facilitate discussion and analysis. By using models, teachers can make abstract concepts more concrete and accessible to students. Additionally, models can help students connect new information to prior knowledge and experiences, making learning more meaningful and memorable. Furthermore, models can be used to promote active learning and engagement, allowing students to participate in the construction of knowledge rather than simply receiving it passively. By incorporating models into daily routines, teachers can foster a culture of curiosity and exploration, promoting lifelong learning skills in their students."
+    choice "child reaction" -> the_impact_of_talk_and_role_play_on_writing-three-reaction
+
+card the_impact_of_talk_and_role_play_on_writing-three-reaction
+    title "Variety of Other Aspects Supported : childern reaction"
+    text "As a student, I found the teacher's response helpful in understanding how to develop a variety of skills and competencies. The idea of using models to support the development of ideas in lessons seemed like a great way to make abstract concepts more concrete and accessible. I liked the idea of connecting new information to prior knowledge and experiences, as this would make learning more meaningful and memorable. I appreciated the suggestion of incorporating models into daily routines, as this would foster a culture of curiosity and exploration. Overall, I felt motivated and excited to start practicing these skills regularly. I felt confident that I could improve my skills with the help of my teacher."
+    choice "child reaction" -> the_impact_of_talk_and_role_play_on_writing-end
+
+card the_impact_of_talk_and_role_play_on_writing-end
+    title "practice finshied"
+    text "thank you for your time" 
